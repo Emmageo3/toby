@@ -412,6 +412,23 @@ main .standard.avis .left {
     box-shadow: 0 4px 16px rgb(193 201 214 / 45%);
 }
 
+.guides{
+
+}
+
+.guide-head{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin: 4rem 25rem;
+}
+
+footer{
+   background-color: #071621;
+}
+
 }
 
 .tooltip {
@@ -471,4 +488,10 @@ main .standard.avis .left {
     transform:translate(50%,-50%) rotate(-45deg);
     background-color:#444444;
     box-shadow:0 1px 8px rgba(0,0,0,0.5);
+}
+
+.footer-top{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
 }
