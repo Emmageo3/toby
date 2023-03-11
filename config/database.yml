@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  encoding: utf8
+  # database: demo_development
+  database: toby_development
+  pool: 20
+  username: deploy
+  password: dabakh
+  host: localhost
